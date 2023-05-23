@@ -1,2 +1,4 @@
 # MSSA-CSCA11
-My Microsoft Software and System Academy Journey
+Microsoft Software and System Academy 
+
+Here you'll find projects I have done during my journey with MSSA. 
